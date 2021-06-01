@@ -1,4 +1,4 @@
-<h1 align="center"><strong>We have a brand new hack system! Testing is appreciated!</strong></h1>
+<h1 align="center"><strong>Our hack extension is the best in the business. Try it out!</strong></h1>
 
 
 <h1 align="center">
